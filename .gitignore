@@ -18,3 +18,5 @@ src/.env
 
 # MySQL data (do not track)
 docker/mysql/data/
+*.pem
+*.key
