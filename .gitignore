@@ -6,3 +6,12 @@ src/vendor/
 src/node_modules/
 src/storage/
 src/bootstrap/cache/
+
+# MySQL data (do not track)
+docker/mysql/data/
+
+# MySQL data (do not track)
+docker/mysql/data/
+
+# Laravel local env
+src/.env
