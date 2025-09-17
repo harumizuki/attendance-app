@@ -15,3 +15,6 @@ docker/mysql/data/
 
 # Laravel local env
 src/.env
+
+# MySQL data (do not track)
+docker/mysql/data/
